@@ -1,4 +1,4 @@
-package com.timerapp
+package com.WeatherApp
 
 import android.app.Application
 import com.facebook.react.PackageList
